@@ -50,13 +50,6 @@ This project is an interactive web application that combines **Neo4j**, a powerf
 - Explore the movie database through the Streamlit interface.
 - Visualize relationships and structures using the Neo4J Browser.
 
-## Contribution
-If you want to contribute, please:
-1. Fork the repository.
-2. Create a new branch (`feature/new-feature`).
-3. Commit your changes.
-4. Submit a pull request.
-
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
