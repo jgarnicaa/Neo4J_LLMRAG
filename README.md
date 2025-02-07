@@ -2,6 +2,9 @@
 
 This project is an interactive web application that combines **Neo4j**, a powerful graph database, and a **Large Language Model (LLM)** accessible via the **Together API**. The application allows users to query a movie database and receive AI-generated responses based on data retrieved from the graph database.
 
+![Screenshot from 2025-01-29 16-49-46](https://github.com/user-attachments/assets/8dfbb75e-c2dc-4fa7-89f9-4bfafc5db578)
+
+
 ## Objectives
 - Understand how to connect and query a **Neo4j** database.
 - Learn to use **Streamlit** to create an interactive web application.
