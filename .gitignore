@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+##Envi
+Neo4J
+
+##Secrets
+.secrets
